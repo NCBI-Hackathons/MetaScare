@@ -10,7 +10,7 @@ import pandas as pd
 import os
 #import sys
 
-FileDir ="/Users/leblanckh/gitProjects/MetaScare/RePORTER_FY18"
+FileDir = r"C:\Users\leblanckh\gitRepos\MetaScare\RePORTER_FY18"
 os.chdir(FileDir)
 FileList = os.listdir(FileDir)
 
@@ -24,3 +24,7 @@ FileList = os.listdir(FileDir)
 #cool one-line for each to not make an intermediate list object
 df = pd.concat((pd.read_csv(File, encoding="ISO-8859-1") for File in FileList))
 print (df.head())
+
+#write to csv in the MetaScare directory
+os.chdir(r"C:\Users\leblanckh\gitRepos\MetaScare")
+df.to_csv("RePORTER_PRJ_C_FY2018.csv")
