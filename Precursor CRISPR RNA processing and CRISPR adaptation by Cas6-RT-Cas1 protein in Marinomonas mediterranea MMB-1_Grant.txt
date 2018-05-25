@@ -1,0 +1,82 @@
+-- MeSH Terms --
+
+
+RNA, Small Interfering
+
+
+Caenorhabditis elegans
+
+
+MicroRNAs
+
+
+Gene Editing
+
+
+Goals
+
+
+Gene Silencing
+
+
+RNA primers
+
+
+Genetic Testing
+
+
+Sequence Analysis
+
+
+Genomics
+
+
+DNA
+
+
+
+-- Relevant MeSH Terms --
+
+
+Animals
+
+
+
+-- PubMed/MEDLINE Similar Citations --
+
+
+11931226:  Homology-dependent gene silencing and host defense in plants.
+
+
+24352423:  Multiple small RNA pathways regulate the silencing of repeated and foreign genes in C. elegans.
+
+
+12972639:  Mathematical models of RNA silencing: unidirectional amplification limits accidental self-directed reactions.
+
+
+22670757:  RNA silencing and plant viral diseases.
+
+
+12169664:  RNA-directed DNA methylation in Arabidopsis.
+
+
+16212497:  RNA silencing systems and their relevance to plant development.
+
+
+25070184:  DNA methylation maintenance consolidates RNA-directed DNA methylation and transcriptional gene silencing over generations in Arabidopsis thaliana.
+
+
+25017169:  RNA silencing is induced by the expression of foreign recombinant products in transgenic rice.
+
+
+12198169:  Two classes of short interfering RNA in RNA silencing.
+
+
+15242620:  Role of Arabidopsis ARGONAUTE4 in RNA-directed DNA methylation triggered by inverted repeats.
+
+
+
+-- Input Text --
+
+
+We propose to continue a multidisciplinary project to understand the mechanisms by which aberrant unusual or foreign RNA and DNA structures trigger gene silencing The major aims of this project are 1 Establish the mechanisms by which miRNA siRNA and piRNA effectors repress their genetic targets Thirty years of careful molecular genetic analysis of developmental progression in C elegans combined with new technologies for genome editing provide a remarkable ability to make targeted changes in place in genomic contexts that will allow us to address specific physiological regulatory mechanisms in vivo Adding the intensive genetic analysis of small RNA targeting machineries that has been performed in C elegans yields a platform to definitively assign silencing mechanisms for each of the major small RNA regulatory classes Assigning these mechanisms should provide important guidance in understanding small RNA based effects on physiology and disease and in applying small RNAs as modulators in experimental and therapeutic contexts 2 Investigate mechanisms used by organisms to recognize and silence foreign DNA Along with an ability to recognize and target foreign or aberrant RNA cells have sets of mechanisms to recognize and silence foreign DNA molecules introduced by injection or other routes In some aspects such mechanisms overlap with known foreign RNA defense mechanisms while certain features of the foreign DNA response are not easily explained by current RNA based silencing models We will analyze a set of non cannonical triggering events and downstream silencing processes with the long term goals of understanding DNA triggered silencing mechanisms being able to defeat these mechanisms for specific experimental or therapeutic goals that involve expression of foreign DNA and of being able to co opt DNA silencing as needed to flexibly block specific gene expression 3 Investigate the mechanisms by which new small RNA effector repertoire is acquired by the genome Genomic regions encoding small RNA effectors show a remarkably dynamic character allowing acquisition of new silencing capabilities and thus protection against novel invasive agents as appropriate specificities are added to the repertoire Little is known about how new small RNA repertoire is added with recent technical advances in sequence analysis allowing these questions to be addressed both on a structural level what structures give rise to new elements of the repertoire and on a functional level how new sequence acquisitions are executed Understanding of RNA repertoire acquisition will be of considerable value i in guiding our views on the role and capabilities dynamic small RNA regulatory systems ii in illuminating any conditions resulting from inability to adapt and thus respond to novel pathogens and iii in providing a potential entry into using the system for directed repertoire expansion to provide experimental or therapeutic intervention 
