@@ -1,0 +1,82 @@
+-- MeSH Terms --
+
+
+Clustered Regularly Interspaced Short Palindromic Repeats
+
+
+CRISPR-Cas Systems
+
+
+Marinomonas
+
+
+RNA
+
+
+RNA-Directed DNA Polymerase
+
+
+Catalytic Domain
+
+
+Phylogeny
+
+
+DNA
+
+
+Endonucleases
+
+
+Mutagenesis, Site-Directed
+
+
+Genomics
+
+
+Adaptive Immunity
+
+
+
+-- Relevant MeSH Terms --
+
+
+
+-- PubMed/MEDLINE Similar Citations --
+
+
+24459147:  A complex of Cas proteins 5, 6, and 7 is required for the biogenesis and stability of clustered regularly interspaced short palindromic repeats (crispr)-derived rnas (crrnas) in Haloferax volcanii.
+
+
+24753403:  Cas6 specificity and CRISPR RNA loading in a complex CRISPR-Cas system.
+
+
+25994611:  Biogenesis pathways of RNA guides in archaeal and bacterial CRISPR-Cas adaptive immunity.
+
+
+26917774:  Direct CRISPR spacer acquisition from RNA by a natural reverse transcriptase-Cas1 fusion protein.
+
+
+22986408:  Substrate generation for endonucleases of CRISPR/cas systems.
+
+
+27096362:  The CRISPR-associated DNA-cleaving enzyme Cpf1 also processes precursor CRISPR RNA.
+
+
+26364721:  Primary processing of CRISPR RNA by the endonuclease Cas6 in Staphylococcus epidermidis.
+
+
+23243301:  Characterization of CRISPR RNA biogenesis and Cas6 cleavage-mediated inhibition of a provirus in the haloarchaeon Haloferax mediterranei.
+
+
+20884784:  Binding and cleavage of CRISPR RNA by Cas6.
+
+
+24150936:  Evolution of CRISPR RNA recognition and processing by Cas6 endonucleases.
+
+
+
+-- Input Text --
+
+
+Prokaryotic CRISPR Cas systems provide adaptive immunity by integrating portions of invasive nucleic acids spacers between genomic CRISPR repeats Cas6 family proteins help generate spacer derived tags crRNAs that target Cas nucleases to matching invaders We show that a Marinomonas mediterranea Cas6 reverse transcriptase RT Cas1 fusion combines three biochemical activities Cas6 RT and Cas1 that function in both crRNA processing and spacer acquisition from RNA and DNA We report a 2 85 crystal structure of this divergent Cas6 identify its active site by site directed mutagenesis and show that the Cas6 domain but not Cas6 catalytic activity is required for RT activity and spacer acquisition from RNA Further CRISPR repeat RNA binding to Cas6 inhibits the RT suggesting a mechanism for coordinating these activities Phylogenetic analysis reveals multiple independent events resulting in stable association of Cas6 with CRISPR associated RTs perhaps reflecting a more widespread link between pre crRNA processing and RNA spacer acquisition
