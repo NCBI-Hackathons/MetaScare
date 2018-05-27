@@ -29,3 +29,7 @@ for Name in dirNameList:
     os.chdir(ProjectTop)
     newFileName = Name + ".csv"
     df.to_csv(newFileName)
+    print("Column Labels:")
+    print(df.columns.values.tolist())
+    print("Column Head:"
+    print(df.head())
